@@ -1,0 +1,65 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+}
+
+
+.deskatas{
+    background-color: grey;
+    padding-block: 15px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.nama{
+    padding-inline-start: 30px;
+    color: aliceblue;
+
+}
+.deskkanan{
+    display: flex;
+    padding-inline-end:20px;
+    color: aliceblue;
+
+}
+.kanan{
+    padding-inline-start: 19px;
+}
+.centerdesk{
+    margin-top: 20pc;
+}
+.keterangan{
+    font-size: 4pc;
+    text-align: center;
+}
+
+.ket2{
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+
+.tengah1{
+    padding-inline-start: 1pc;
+    display: inline-block;
+    margin: 2pc;
+}
+.tengah2{
+    padding-inline-start: 1pc;
+    display: inline-block;
+    margin: 2pc;
+}
+.tengah3{
+    padding-inline-start: 1pc;
+    display: inline-block;
+    margin: 2pc;
+}
+.tengah4{
+    padding-inline-start: 1pc;
+    display: inline-block;
+    margin: 2pc;
+}
